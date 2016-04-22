@@ -8,4 +8,5 @@ i am going to do some Java stuff here
 
 En van Intellij uit terug
 
-en nog een keer testen
+en nog een keer testen   
+Nu wel lukken na fork aangemaakt te hebben anders werkt het natuurlijk niet
